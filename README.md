@@ -9,17 +9,20 @@
 
 ## 邏輯視圖（Logical View）
 設計的對象模型，改成了用UML來表示。
-
+![Logical View](https://github.com/user-attachments/assets/b498029a-a6e0-4869-b6eb-a208a6cb2e38)
 邏輯視圖｜設計的對象模型
 
-過程/進程視圖（Process View）
+## 過程/進程視圖（Process View）
 捕捉設計的並發和同步特徵。這個圖有點抽象，主要需要表現出線程、進程之間的關係。
+![Process View](https://github.com/user-attachments/assets/0c787ebc-fd37-4de9-8ebc-4864c4a6b53d)
 過程/進程視圖
 
-物理視圖（Physical View）
+## 物理視圖（Physical View）
 描述了軟體到硬體的映射，反映了分佈式特性。你的物理網路如何搭建。
+![Physical View](https://github.com/user-attachments/assets/b19ac0c1-73c2-4aa8-9445-1b14ba6d6cbf)
 物理視圖
 
-開發視圖（Development View）
+## 開發視圖（Development View）
 描述了在開發環境中軟體的靜態組織結構。包含哪些功能模組。
+![Development View](https://github.com/user-attachments/assets/2d83e92d-37c3-4a66-b5a2-639bea92503c)
 開發視圖
